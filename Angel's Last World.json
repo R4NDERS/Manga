@@ -4,5 +4,14 @@
   "artist": "",
   "author": "R4",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Angel's Last World",
+      "volume": "",
+      "last_updated": "1784733424",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ljyqpoemd72"
+      }
+    }
+  }
 }
