@@ -2839,10 +2839,18 @@
     },
     "355": {
       "title": "One to Infinity",
-      "volume": "40",
+      "volume": "41",
       "last_updated": "1785252158",
       "groups": {
         "R4": "/proxy/api/imgchest/chapter/qe4g6dmdjyj"
+      }
+    },
+    "356": {
+      "title": "Rainbow Knight",
+      "volume": "41",
+      "last_updated": "1785876462",
+      "groups": {
+        "R4": "/proxy/api/imgchest/chapter/xny8kvnmwyb"
       }
     }
   }
